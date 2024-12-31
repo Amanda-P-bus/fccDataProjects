@@ -8,6 +8,10 @@
     --med-blue: #457B9D;
 }    
 
-body {display: flex; flex-direction: column; justify-content: center; align-items: center;}
+body {display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;}
 
 svg {background-color: #A8DADC;}
+
+#title {font-size: 25px; font-weight: bold; margin-top: 2vh; margin-bottom: 1vh;}
+
+#description {font-size: 18px; font-weight: bold;}
