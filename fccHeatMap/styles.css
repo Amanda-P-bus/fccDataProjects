@@ -1,0 +1,13 @@
+:root {
+    --mid-red: #e33947;
+    --light-red:#f5818b;
+     --dark-red: #9e1a1a ; --dark-blue: #1D3557;
+    --green: rgb(15,151,15);
+    --cream: #F1FAEE;
+    --light-blue: #A8DADC;
+    --med-blue: #457B9D;
+}    
+
+body {display: flex; flex-direction: column; justify-content: center; align-items: center;}
+
+svg {background-color: #A8DADC;}
