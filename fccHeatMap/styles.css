@@ -8,10 +8,17 @@
     --med-blue: #457B9D;
 }    
 
-body {display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;}
+body {display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background-color: #A8DADC;}
 
-svg {background-color: #A8DADC;}
+svg {background-color: #A8DADC; stroke-width: 1;}
 
-#title {font-size: 25px; font-weight: bold; margin-top: 2vh; margin-bottom: 1vh;}
+#title {font-size: 25px; font-weight: bold; margin-top: 3vh;}
 
 #description {font-size: 18px; font-weight: bold;}
+
+#mapContainer {  width: auto;
+    overflow: visible;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;}
+
