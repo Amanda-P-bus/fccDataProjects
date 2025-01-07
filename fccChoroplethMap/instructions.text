@@ -4,6 +4,7 @@ User Story #1: My choropleth should have a title with a corresponding id="title"
 
 User Story #2: My choropleth should have a description element with a corresponding id="description".
 
+
 User Story #3: My choropleth should have counties with a corresponding class="county" that represent the data.
 
 User Story #4: There should be at least 4 different fill colors used for the counties.
