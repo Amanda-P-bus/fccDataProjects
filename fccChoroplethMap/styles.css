@@ -8,10 +8,20 @@
     --med-blue: #457B9D;
 }    
 
-body {display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #A8DADC;}
+body {display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #cefdff;;}
 
 svg {background-color: #cefdff;}
 
 #title {font-size: 4vh;}
 
 #description {font-size: 3vh;}
+
+#legend {font-size: 12px; font-weight: bold;}
+
+.counties {fill: none;}
+
+.states {fill: none;  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+#tooltip {background-color: black; color: white; padding: 5px; border-radius: 5px; font-size: 18px;}
